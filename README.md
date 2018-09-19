@@ -14,6 +14,7 @@ Análisis semántico y algoritmo de sustitución textual
 
 ### Integrantes
 
-* Nombre del alumno 1 | Correo del alumno 1
-* Nombre del alumno 2 | Correo del alumno 2
-* Nombre del alumno 3 | Correo del alumno 3
+* Aguilar Rodríguez Leonardo | leomardo.aguilar@ciencias.unam.mx
+* Becerra Ruiz Brenda Margarita | b.aries.becerra@ciencias.unam.mx
+* Escamilla Monroy Miguel Ángel | miguelescamilla@ciencias.unam.mx
+* Tello Ruiz Christian | tello@ciencias.unam.mx
